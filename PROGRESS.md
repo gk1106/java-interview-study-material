@@ -8,9 +8,9 @@ waiting for confirmation, in parallel batches of 3 via subagents.
 ## Module status
 
 - [x] 00-roadmap — study-plan.md, how-to-use.md
-- [ ] 01-java-foundations-for-dsa — Big-O, Generics, equals/hashCode, Comparable/Comparator, Iterable/Iterator, Arrays/Collections utils
-- [ ] 02-collections-framework-overview — hierarchy, choosing a collection, immutable collections
-- [ ] 03-list — List, ArrayList, LinkedList, ArrayList vs LinkedList, Vector/Stack/ArrayDeque, CopyOnWriteArrayList, ListIterator/subList, DSA patterns, MyArrayList/MySinglyLinkedList
+- [x] 01-java-foundations-for-dsa — Big-O, Generics, equals/hashCode, Comparable/Comparator, Iterable/Iterator, Arrays/Collections utils
+- [x] 02-collections-framework-overview — hierarchy, choosing a collection, immutable collections
+- [x] 03-list — List, ArrayList, LinkedList, ArrayList vs LinkedList, Vector/Stack/ArrayDeque, CopyOnWriteArrayList, ListIterator/subList, DSA patterns, MyArrayList/MySinglyLinkedList
 - [ ] 04-queue-deque — Queue, Deque/ArrayDeque, PriorityQueue, BlockingQueue family, DSA patterns, build-it-yourself
 - [ ] 05-set — HashSet/LinkedHashSet/TreeSet, EnumSet/concurrent sets, DSA patterns
 - [ ] 06-map — HashMap, LinkedHashMap+LRU, TreeMap, ConcurrentHashMap, WeakHashMap/IdentityHashMap/EnumMap, DSA patterns, MyHashMap/LRU
@@ -24,7 +24,7 @@ waiting for confirmation, in parallel batches of 3 via subagents.
 ## Build status
 
 - [x] Project scaffold created (pom.xml, README.md, PROGRESS.md, mvnw/mvnw.cmd)
-- [ ] Batch 1 (01-03) compiled & tested
+- [x] Batch 1 (01-03) compiled & tested — test-compile clean, 228/228 solution tests pass (47 solution test classes)
 - [ ] Batch 2 (04-06) compiled & tested
 - [ ] Batch 3 (07-09) compiled & tested
 - [ ] Batch 4 (10-12) compiled & tested
