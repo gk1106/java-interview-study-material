@@ -25,7 +25,7 @@ class TwoSumSortedSolutionTest {
 
     @Test
     void negativeAmounts() {
-        assertThat(TwoSumSortedSolution.solve(List.of(-5, -3, 0, 2, 6), 3)).containsExactly(1, 3);
+        assertThat(TwoSumSortedSolution.solve(List.of(-5, -3, 0, 2, 6), 3)).containsExactly(1, 4);
     }
 
     @Test
